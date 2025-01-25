@@ -13,7 +13,7 @@ A fun and interactive memory game where players must replicate an increasingly c
 
 ---
 
-### 2. [Tinder Replica for Dogs (Home Screen)](https://rohanshenoy30.github.io/webdevelopment-projects/Drum%20Kit%20Completed/)
+### 2. [Tinder Replica for Dogs (Home Screen)](https://rohanshenoy30.github.io/webdevelopment-projects/TinDog%20Project/)
 A playful home screen design inspired by Tinder, but tailored for dogs! This project focuses on front-end development and design.
 
 **Key Features:**
