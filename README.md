@@ -33,7 +33,7 @@ An interactive drum kit simulator where users can play drum sounds using keyboar
 
 ---
 
-### 4. [JavaScript Chess Game](https://rohanshenoy30.github.io/webdevelopment-projects/javascript-chess-game/)
+### 4. [JavaScript Chess Game](https://rohanshenoy30.github.io/webdevelopment-projects/javascript-chess-game/index.html)
 A fully functional chess game built using JavaScript, HTML, and CSS.
 
 **Key Features:**
