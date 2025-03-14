@@ -37,10 +37,9 @@ An interactive drum kit simulator where users can play drum sounds using keyboar
 A fully functional chess game built using JavaScript, HTML, and CSS.
 
 **Key Features:**
-- Drag-and-drop functionality for moving pieces.
-- Enforces legal chess moves.
+- Shows all possible legal moves for moving pieces.
 - Interactive UI with real-time gameplay.
-- Built using JavaScript without external libraries.
+- Built using JavaScript.
 
 ---
 
